@@ -14,7 +14,7 @@ This portfolio is hosted using **GitHub Pages**.
 
 Once enabled, it will be available at:
 
-https://YOUR-USERNAME.github.io/sparksoft-portfolio/
+https://sparksoft-rw.github.io/sparksoft-portfolio/
 
 ---
 
